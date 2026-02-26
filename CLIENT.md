@@ -3,33 +3,33 @@
 
 ## IDENTITE
 
-NOM_ENTREPRISE: "Nom de l'Entreprise"
-NOM_LEGAL: "Nom de l'Entreprise SARL"
-SIRET: "000 000 000 00000"
+NOM_ENTREPRISE: "Bacqueville Couverture"
+NOM_LEGAL: "BACQUEVILLE MARIO"
+SIRET: "992 124 248 00012"
 METIER: "couvreur"
 METIER_LABEL: "Couvreur"
 GENRE_DIRIGEANT: "M"
-PRENOM_DIRIGEANT: "Prenom"
-NOM_DIRIGEANT: "Nom"
-DIPLOME_DIRIGEANT: "couvreur-zingueur diplome, compagnon du devoir"
-ANNEE_CREATION: "2010"
-ANNEES_EXPERIENCE: "15"
+PRENOM_DIRIGEANT: "Mario"
+NOM_DIRIGEANT: "Bacqueville"
+DIPLOME_DIRIGEANT: "couvreur professionnel, peintre en batiment"
+ANNEE_CREATION: "2025"
+ANNEES_EXPERIENCE: "1"
 
 ## CONTACT
 
-TELEPHONE: "00 00 00 00 00"
-EMAIL: "contact@votre-domaine.fr"
-ADRESSE: "1 Rue de la Paix"
-CODE_POSTAL: "00000"
-VILLE: "Votre Ville"
-DEPARTEMENT: "Votre Departement"
-REGION: "Votre Region"
+TELEPHONE: "06 69 32 48 81"
+EMAIL: "mario.bacqueville@gmail.com"
+ADRESSE: "2 CHEMIN DE GARDOUCH"
+CODE_POSTAL: "31290"
+VILLE: "Villefranche-de-Lauragais"
+DEPARTEMENT: "Haute-Garonne"
+REGION: "Occitanie"
 PAYS: "France"
 HORAIRES: "Lun-Ven: 8h00-18h00, Sam: 9h00-13h00"
-ZONE_INTERVENTION: "Votre ville et region"
-ZONES_LISTE: "Votre Ville, Ville A, Ville B, Ville C, Ville D, Ville E, Ville F"
-LATITUDE: "46.603354"
-LONGITUDE: "1.888334"
+ZONE_INTERVENTION: "Haute-Garonne (31) et Occitanie"
+ZONES_LISTE: "Villefranche-de-Lauragais, Toulouse, Castelnaudary, Revel, Montgiscard, Nailloux, Caraman, Verfeil"
+LATITUDE: "43.3964"
+LONGITUDE: "1.7213"
 
 ## BRANDING
 
@@ -44,18 +44,18 @@ FONT_CORPS: "DM Sans"
 ## SEO
 
 DOMAINE: "www.votre-domaine.fr"
-META_TITLE: "Nom de l'Entreprise | Couvreur a Votre Ville"
-META_DESCRIPTION: "Couvreur a Votre Ville. Couverture neuve, renovation de toiture, zinguerie, isolation, depannage urgent. Devis gratuit."
-META_KEYWORDS: "couvreur, couverture, toiture, renovation toiture, zinguerie, isolation toiture, depannage toiture, couvreur professionnel"
+META_TITLE: "Bacqueville Couverture | Couvreur a Villefranche-de-Lauragais (31)"
+META_DESCRIPTION: "Couvreur a Villefranche-de-Lauragais et en Haute-Garonne (31). Bacqueville Couverture : couverture neuve, renovation de toiture, zinguerie, isolation, depannage urgent. Devis gratuit."
+META_KEYWORDS: "couvreur Villefranche-de-Lauragais, couvreur Haute-Garonne 31, toiture 31, renovation toiture Toulouse, zinguerie Occitanie, depannage toiture 31, Bacqueville couverture"
 SCHEMA_TYPE: "RoofingContractor"
 
 ## CONTENU
 
-SLOGAN: "Votre Slogan Ici"
-ACCROCHE_HERO: "Votre Toiture — Entre de Bonnes Mains"
-DESCRIPTION_ENTREPRISE: "Votre description d'entreprise. Couverture, renovation, zinguerie et isolation — un savoir-faire artisanal au service de votre toiture."
-DESCRIPTION_FOOTER: "Votre description courte pour le footer du site."
-DESCRIPTION_APROPOS: "Fondee par Prenom Nom, votre entreprise est nee d'une passion profonde pour les metiers de la couverture et du batiment."
+SLOGAN: "Expert couverture en Haute-Garonne"
+ACCROCHE_HERO: "Votre Toiture — Entre de Bonnes Mains en Occitanie"
+DESCRIPTION_ENTREPRISE: "Bacqueville Couverture, couvreur professionnel base a Villefranche-de-Lauragais (31), intervient dans tout le departement de la Haute-Garonne pour la couverture neuve, la renovation, la zinguerie et le depannage urgent."
+DESCRIPTION_FOOTER: "Couvreur a Villefranche-de-Lauragais et en Haute-Garonne (31). Devis gratuit, intervention rapide."
+DESCRIPTION_APROPOS: "Fonde par Mario Bacqueville, Bacqueville Couverture est ne d'une passion pour les metiers de la couverture et du batiment."
 
 ## SERVICES
 
@@ -83,16 +83,16 @@ PINTEREST_URL: ""
 
 ## TEMOIGNAGES
 
-TEMOIGNAGE_1_NOM: "Client Satisfait"
-TEMOIGNAGE_1_VILLE: "Votre Ville"
-TEMOIGNAGE_1_TEXTE: "Nom de l'Entreprise a refait entierement notre toiture en ardoise. Le travail est impeccable, l'equipe ponctuelle et soigneuse. Nous recommandons les yeux fermes !"
+TEMOIGNAGE_1_NOM: "M. Fabre"
+TEMOIGNAGE_1_VILLE: "Villefranche-de-Lauragais"
+TEMOIGNAGE_1_TEXTE: "Bacqueville Couverture a refait entierement notre toiture. Le travail est impeccable, Mario est ponctuel et soigneux. Nous recommandons sans hesiter !"
 TEMOIGNAGE_1_NOTE: "5"
-TEMOIGNAGE_2_NOM: "Famille Placeholder"
-TEMOIGNAGE_2_VILLE: "Commune voisine"
+TEMOIGNAGE_2_NOM: "Famille Cassagne"
+TEMOIGNAGE_2_VILLE: "Toulouse"
 TEMOIGNAGE_2_TEXTE: "Intervention rapide apres une fuite. Diagnostic precis, reparation efficace et prix honnete. Un vrai professionnel de la couverture."
 TEMOIGNAGE_2_NOTE: "5"
-TEMOIGNAGE_3_NOM: "M. Placeholder"
-TEMOIGNAGE_3_VILLE: "Ville proche"
+TEMOIGNAGE_3_NOM: "Mme Riviere"
+TEMOIGNAGE_3_VILLE: "Castelnaudary"
 TEMOIGNAGE_3_TEXTE: "Renovation complete de notre zinguerie. Gouttieres en zinc posees avec un soin remarquable. Aucun probleme depuis, meme apres de fortes pluies."
 TEMOIGNAGE_3_NOTE: "5"
 
